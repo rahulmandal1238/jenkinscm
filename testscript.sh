@@ -1,5 +1,5 @@
 #!/bin/bash
-echi "This script is from github"
+echo "This script is from github"
 NUMBER=$(( $NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "This is completed."
